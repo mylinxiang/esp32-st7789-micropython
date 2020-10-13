@@ -17,5 +17,4 @@ Use steps:
 <br>2 girl.bin Upload to esp32 and then reset the device
 <br>3. update.py It is a Windows push background program. It needs to install Python 3.0 or above on the computer to run. For the first time, you need to fill in the LAN IP address of esp32 in the program
 <br>4. If you have any questions, please feedback to 672399553@qq.com
-<br><br>Preview image: < br >! [image]（ https://raw.githubusercontent.com/mylinxiang/esp32-st7789-micropython/main/%E6%98%BE%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE.jpg )
 
