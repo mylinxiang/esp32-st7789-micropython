@@ -6,3 +6,4 @@ ESP32驱动st7789 1.3寸IPS 240*240显示带图片背景时钟，micropython语�
 <br>2.将girl.bin上传至ESP32，然后RESET设备.
 <br>3.update.py是windows推送背景程序，需要电脑安装python3.0及以上才能运行，首次使用需要在程序中填入esp32的局域网IP地址.
 <br>4.有问题请反馈到672399553@qq.com
+<br>预览图:<br>![image](https://raw.githubusercontent.com/mylinxiang/esp32-st7789-micropython/main/%E6%98%BE%E7%A4%BA%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
